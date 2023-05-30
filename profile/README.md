@@ -12,6 +12,8 @@ We believe in the power of community-driven development, and we are constantly i
 - Email: [team@kube-logging.dev](mailto:team@kube-logging.dev)
 - [Discord](https://discord.gg/9ACY4RDsYN)
 - [Slack](https://emergingtechcommunity.slack.com/)
+- [Contributing guide](https://github.com/kube-logging/.github/blob/main/CONTRIBUTING.md)
+- [Security policies](https://github.com/kube-logging/.github/blob/main/SECURITY.md)
 - [Code of Conduct](https://github.com/kube-logging/.github/blob/main/CODE_OF_CONDUCT.md)
 
 ## Get Involved
