@@ -21,4 +21,4 @@ You can contribute by improving our code, enhancing our documentation, reporting
 
 Explore our repositories, try out the Logging Operator, and give us your feedback. Together, we can make Kubernetes logging better for everyone!
 
-Happy logging!
+**Happy logging!**
