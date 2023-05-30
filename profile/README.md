@@ -13,3 +13,12 @@ We believe in the power of community-driven development, and we are constantly i
 - [Discord](https://discord.gg/9ACY4RDsYN)
 - [Slack](https://emergingtechcommunity.slack.com/)
 - [Code of Conduct](https://github.com/kube-logging/.github/blob/main/CODE_OF_CONDUCT.md)
+
+## Get Involved
+
+Whether you're a seasoned developer, a Kubernetes enthusiast, or someone just starting their journey in the cloud-native world, we invite you to join us.
+You can contribute by improving our code, enhancing our documentation, reporting or fixing bugs, or even just by sharing your experiences and insights.
+
+Explore our repositories, try out the Logging Operator, and give us your feedback. Together, we can make Kubernetes logging better for everyone!
+
+Happy logging!
